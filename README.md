@@ -1,6 +1,6 @@
 # sample_TLE
 
-This is a repo containing sample codes of private The Last Engineer game project. The repo initializes with code ruling middle boss, and is subject to more addings as project grows.
+This is a repo containing sample codes of private The Last Engineer game project. The repo initializes with code ruling middle boss, and is subject to more topics released as project grows.
 
 ## Brief Documentation
 ### NewMidboss.cs
