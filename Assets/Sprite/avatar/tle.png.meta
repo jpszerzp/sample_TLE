@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: a8440193501d14fd48ac5082b9857c97
+timeCreated: 1479448930
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UpperBody
+    21300002: Arm1
+    21300004: Arm2
+    21300006: Foot2
+    21300008: Foot1
+    21300010: UpperLeg1
+    21300012: tle_6
+    21300014: tle_7
+    21300016: MiddleLeg2
+    21300018: MiddleLeg1
+    21300020: tle_10
+    21300022: tle_11
+    21300024: tle_12
+    21300026: LowerBody
+    21300028: tle_14
+    21300030: UpperLeg2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpperBody
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 1441
+        height: 2741
+      alignment: 9
+      pivot: {x: 0.53359884, y: 0.0113055995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm1
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 3687
+        width: 211
+        height: 401
+      alignment: 9
+      pivot: {x: 0.4617567, y: 0.86221516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm2
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 3688
+        width: 211
+        height: 401
+      alignment: 9
+      pivot: {x: 0.46175554, y: 0.90246123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot2
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 4039
+        width: 115
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3989
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UpperLeg1
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 3800
+        width: 94
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5000013, y: 0.8566571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tle_6
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3341
+        width: 204
+        height: 339
+      alignment: 9
+      pivot: {x: 0.53955495, y: 0.8808543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tle_7
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3344
+        width: 209
+        height: 339
+      alignment: 9
+      pivot: {x: 0.53860927, y: 0.83324766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MiddleLeg2
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 3637
+        width: 90
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.82277507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MiddleLeg1
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 3499
+        width: 80
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.80109465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tle_10
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2903
+        width: 176
+        height: 425
+      alignment: 9
+      pivot: {x: 0.4083037, y: 0.87973404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tle_11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tle_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1115
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LowerBody
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 1301
+        height: 654
+      alignment: 9
+      pivot: {x: 0.5062023, y: 0.09283134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tle_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 169
+        height: 416
+      alignment: 9
+      pivot: {x: 0.261261, y: 0.9267445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UpperLeg2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 157
+        width: 158
+        height: 220
+      alignment: 9
+      pivot: {x: 0.6021433, y: 0.9034681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

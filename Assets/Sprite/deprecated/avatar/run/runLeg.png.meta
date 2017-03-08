@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: e79da90266e004f6f86af3406609db34
+timeCreated: 1478518949
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runLeg_0
+    21300002: runLeg_1
+    21300004: runLeg_2
+    21300006: runLeg_3
+    21300008: runLeg_4
+    21300010: runLeg_5
+    21300012: runLeg_6
+    21300014: runLeg_7
+    21300016: runLeg_8
+    21300018: runLeg_9
+    21300020: runLeg_10
+    21300022: runLeg_11
+    21300024: runLeg_12
+    21300026: runLeg_13
+    21300028: runLeg_14
+    21300030: runLeg_15
+    21300032: runLeg_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: runLeg_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 847
+        width: 321
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 875
+        width: 322
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_2
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 836
+        width: 287
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 663
+        width: 245
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 674
+        width: 267
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_5
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 635
+        width: 207
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 627
+        width: 173
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 478
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 484
+        width: 191
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 476
+        width: 174
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_10
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 448
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 268
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 292
+        width: 173
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 300
+        width: 173
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runLeg_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 111
+        width: 175
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

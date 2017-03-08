@@ -1,0 +1,32 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprite/explosion.tpsheet
+- Assets/Sprite/lazer.tpsheet
+- Assets/Sprite/middlebossdeath.tpsheet
+- Assets/Sprite/middlebosslazer.tpsheet
+- Assets/Sprite/middlebossrocket.tpsheet
+- Assets/Sprite/middlebossshoot.tpsheet
+- Assets/Sprite/rocket.tpsheet
+- Assets/Sprite/runwithgun.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprite/explosion.png
+- Assets/Sprite/lazer.png
+- Assets/Sprite/middlebossdeath.png
+- Assets/Sprite/middlebosslazer.png
+- Assets/Sprite/middlebossrocket.png
+- Assets/Sprite/middlebossshoot.png
+- Assets/Sprite/rocket.png
+- Assets/Sprite/runwithgun.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
